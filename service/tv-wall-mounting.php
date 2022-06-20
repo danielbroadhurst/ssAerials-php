@@ -22,7 +22,9 @@ require_once(TEMPLATES_PATH . "/core.php");
             <h3>OLED &amp; QLED Installation</h3>
             <p>The latest OLED and QLED TVs can be wall mounted and look flush against your wall. We advise that you get your TV fitted professionally so that your TV is securely fitted to the wall.</p>
             <p>If you would like to also have your TV setup correctly then we also offer a <a href="https://ssaerials.co.uk/service/tv-satellite-setup">TV Setup Service</a>.</p>
-
+            <div class="portrait-images">
+                <img src="../img/portfolio/satellite_install_manchester_img_33.jpeg" class="float-left" alt="TV Aerial Installation in Manchester">
+            </div>
         </div>
     </section>
 </div>

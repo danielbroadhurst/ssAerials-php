@@ -22,6 +22,10 @@ require_once(TEMPLATES_PATH . "/core.php");
             </div>
             <h3>Weather Damage to Aerial UK</h3>
             <p>After the recent stormy weather your aerial may be damaged. If you TV service is not what it was it can be a frustrating time, we can quickly fix any damage and recalibrate your aerial. If your aerial has taken heavy damage then please do not worry, most aerials can be repaired and refitted.</p>
+            <div class="portrait-images">
+                <img src="../img/portfolio/satellite_install_manchester_img_28.jpeg" class="float-left" alt="TV Aerial Installation in Manchester">
+                <img src="../img/portfolio/satellite_install_manchester_img_30.jpeg" class="float-right" alt="TV Aerial Installation in Manchester">
+            </div>
     </section>
 </div>
 <?php require(TEMPLATES_PATH . "/cta.php"); ?>
