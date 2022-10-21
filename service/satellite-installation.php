@@ -15,9 +15,16 @@ require_once(TEMPLATES_PATH . "/core.php");
             <h1><?php echo $mytitle ?></h1>
             <h2>Satellite Dish Installation in Manchester.</h2>
             <p>We provide professional satellite dish (receivers) installation and setup. This will ensure that you have a high quality signal to display your channels correctly. We have over 25 years experience in working with satellite dishes. We will provide you with a Free Quote before carrying out any work. </p>
-            <div class="portrait-images">
+            <div class="portrait-images cell">
                 <img src="../img/portfolio/satellite_install_manchester_img_29.jpeg" class="float-left" alt="Satellite Installtion in Manchester">
                 <img src="../img/portfolio/satellite_install_manchester_img_2.jpeg" class="float-right" alt="Satellite Installtion in Manchester">
+            </div>
+
+        </div>
+        <div class="large-12 cell">
+            <div class="portrait-images cell">
+                <img src="../img/portfolio/satellite_install_manchester_img_35.jpeg" class="float-left" alt="Satellite Installtion in Manchester">
+                <img src="../img/portfolio/satellite_install_manchester_img_36.jpeg" class="float-right" alt="Satellite Installtion in Manchester">
             </div>
         </div>
     </section>

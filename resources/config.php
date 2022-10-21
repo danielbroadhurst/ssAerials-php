@@ -5,13 +5,13 @@ if(!defined('SAFETORUN')) {
 
 $config = array(
     "db" => array(
-            "dbname" => 'beedesig_ssAerials19',
-            "username" => 'beedesig_aerial',
-            "password" => '9YbV2VxPDFnqimV',
-            "host" => 'localhost:8889'
+            "dbname" => 'danie513_ssAerials19',
+            "username" => 'danie513_dbAdmin',
+            "password" => 'WWQx8x^0r^!s',
+            "host" => 'localhost'
     ),
     "urls" => array(
-        "baseUrl" => "http://localhost:8888/ss_aerials"
+        "baseUrl" => "https://ssaerials.co.uk/"
     )
 );
  
